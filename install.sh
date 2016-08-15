@@ -845,9 +845,6 @@ CreatPHPTools
 AddAndStartup
 IntallFTP
 installXcahe53
-installXcahe54
-installXcahe55
-installXcahe56
 IntallionCube
 RestartAllPHP
 Install_PHPMemcache
